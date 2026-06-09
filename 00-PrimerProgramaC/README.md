@@ -1,1 +1,3 @@
-Resolución del TP0: Este directorio contiene el desarrollo de mi primer programa en lenguaje C.
+# TP0
+## Primer programa en C
+"Hola Mundo"
